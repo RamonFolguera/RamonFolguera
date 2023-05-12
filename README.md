@@ -1,6 +1,5 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
 
 
 <div id="badges">
@@ -18,6 +17,7 @@
 <div id="view-count">
 <img src="https://komarev.com/ghpvc/?username=RamonFolguera&style=flat-square&color=blue" alt=""/>
 </div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
  
  <h1>
   hey there
