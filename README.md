@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 My name is Ramón and I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
-- :telescope: I’m currently looking for a job to build web applications.
+- :telescope: I’m currently working as a Junior PHP developer.
 
 - :seedling: Exploring Technical Content Writing.
 
